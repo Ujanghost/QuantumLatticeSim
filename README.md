@@ -118,5 +118,9 @@ plt.show()
 ```
 
 #### Author
-[Ujan Galui]
 
+
+#### References
+- A. Altland and B. Simons, *Condensed Matter Field Theory*, 2nd ed. Cambridge University Press, 2010.
+- R. Shankar, *Principles of Quantum Mechanics*, 2nd ed. Springer, 1994.
+- M. A. Nielsen and I. L. Chuang, *Quantum Computation and Quantum Information*, 10th Anniversary Edition. Cambridge University Press, 2010.
